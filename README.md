@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iasminsousa
 - 👀 I’m interested in engineering and data science
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, C and Java
   
 
 <!---
