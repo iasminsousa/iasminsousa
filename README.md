@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iasminsousa
-- 👀 I’m interested in engineering and data science
+- 👀 I’m interested in engineering and back-end developement
 - 🌱 I’m currently learning Python, C and Java
   
 
